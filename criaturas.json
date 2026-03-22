@@ -181,6 +181,20 @@
         "defense": 75,
         "speed": 50
       }
+    },
+    {
+      "id": "1774207662326",
+      "name": "Zosbo",
+      "type1": ":ZZ_fantas:",
+      "type2": ":ZZ_psip:",
+      "sprite": "https://raw.githubusercontent.com/arsiniaofc/Infinitlabors_Floor_creatures/main/Criaturas/14_zosbo.png",
+      "rarity": "Estranho",
+      "stats": {
+        "hp": 38,
+        "attack": 69,
+        "defense": 88,
+        "speed": 85
+      }
     }
   ],
   "trios": [
@@ -212,6 +226,16 @@
         "17741891812710.8315112495678549",
         "17741891812710.12312807459580422",
         "17741891812710.8191142663718303"
+      ]
+    },
+    {
+      "id": "1774207725464",
+      "name": "Besteiras e lezeiras guys",
+      "mainType": ":ZZ_psip:",
+      "creatureIds": [
+        "17741891812710.9229523298917988",
+        "17741891812710.12312807459580422",
+        "1774207662326"
       ]
     }
   ]
