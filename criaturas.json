@@ -6,12 +6,12 @@
       "type1": ":ZZ_Gel:",
       "type2": ":ZZ_Papela:",
       "sprite": "https://raw.githubusercontent.com/arsiniaofc/Infinitlabors_Floor_creatures/main/Criaturas/1_Arjuventudes.png",
-      "rarity": "Lixo",
+      "rarity": "Pragmático",
       "stats": {
         "hp": 90,
-        "attack": 60,
+        "attack": 71,
         "defense": 70,
-        "speed": 30
+        "speed": 34
       }
     },
     {
@@ -26,20 +26,6 @@
         "attack": 85,
         "defense": 55,
         "speed": 72
-      }
-    },
-    {
-      "id": "17741891812710.74429162898561",
-      "name": "Moirles",
-      "type1": ":ZZ_Gel:",
-      "type2": ":ZZ_Maldi:",
-      "sprite": "https://raw.githubusercontent.com/arsiniaofc/Infinitlabors_Floor_creatures/main/Criaturas/3_Moirles.png",
-      "rarity": "Lixo",
-      "stats": {
-        "hp": 31,
-        "attack": 50,
-        "defense": 40,
-        "speed": 78
       }
     },
     {
@@ -75,77 +61,13 @@
       "name": "Hemolouis",
       "type1": ":ZZ_Plant:",
       "type2": ":ZZ_Sang:",
-      "rarity": "Lixo",
+      "sprite": "https://raw.githubusercontent.com/arsiniaofc/Infinitlabors_Floor_creatures/main/Criaturas/6_Hemolouis.png",
+      "rarity": "Pragmático",
       "stats": {
-        "hp": 50,
-        "attack": 50,
-        "defense": 50,
-        "speed": 50
-      }
-    },
-    {
-      "id": "17741891812710.9229523298917988",
-      "name": "Noname",
-      "type1": ":ZZ_Fogo:",
-      "type2": ":ZZ_Maldi:",
-      "rarity": "Lixo",
-      "stats": {
-        "hp": 50,
-        "attack": 50,
-        "defense": 50,
-        "speed": 50
-      }
-    },
-    {
-      "id": "17741891812710.8315112495678549",
-      "name": "Blekkolius",
-      "type1": ":ZZ_Maldi:",
-      "type2": ":ZZ_tinta:",
-      "rarity": "Lixo",
-      "stats": {
-        "hp": 50,
-        "attack": 50,
-        "defense": 50,
-        "speed": 50
-      }
-    },
-    {
-      "id": "17741891812710.12312807459580422",
-      "name": "Billybondas",
-      "type1": ":ZZ_Maldi:",
-      "type2": ":ZZ_Terra:",
-      "rarity": "Lixo",
-      "stats": {
-        "hp": 50,
-        "attack": 50,
-        "defense": 50,
-        "speed": 50
-      }
-    },
-    {
-      "id": "17741891812710.10582055916928201",
-      "name": "Arramundal",
-      "type1": ":ZZ_Elet:",
-      "type2": ":ZZ_Voad:",
-      "rarity": "Lixo",
-      "stats": {
-        "hp": 50,
-        "attack": 50,
-        "defense": 50,
-        "speed": 50
-      }
-    },
-    {
-      "id": "17741891812710.8309187186120827",
-      "name": "Dermitales",
-      "type1": ":ZZ_psip:",
-      "type2": ":ZZ_Terra:",
-      "rarity": "Lixo",
-      "stats": {
-        "hp": 50,
-        "attack": 50,
-        "defense": 50,
-        "speed": 50
+        "hp": 100,
+        "attack": 35,
+        "defense": 94,
+        "speed": 36
       }
     },
     {
@@ -153,12 +75,13 @@
       "name": "Biebralo",
       "type1": ":ZZ_Plant:",
       "type2": ":ZZ_psip:",
-      "rarity": "Lixo",
+      "sprite": "https://raw.githubusercontent.com/arsiniaofc/Infinitlabors_Floor_creatures/main/Criaturas/11_Biebralo.png",
+      "rarity": "Pragmático",
       "stats": {
-        "hp": 50,
-        "attack": 50,
-        "defense": 50,
-        "speed": 50
+        "hp": 66,
+        "attack": 66,
+        "defense": 66,
+        "speed": 66
       }
     },
     {
@@ -166,14 +89,130 @@
       "name": "Pandorama",
       "type1": ":ZZ_Maldi:",
       "type2": ":ZZ_Papela:",
+      "sprite": "https://raw.githubusercontent.com/arsiniaofc/Infinitlabors_Floor_creatures/main/Criaturas/13_Pandoroma.png",
       "rarity": "Lixo",
       "stats": {
         "hp": 50,
         "attack": 50,
-        "defense": 50,
+        "defense": 70,
+        "speed": 80
+      }
+    },
+    {
+      "id": "17741891812710.74429162898561",
+      "name": "Moirles",
+      "type1": ":ZZ_Gel:",
+      "type2": ":ZZ_Maldi:",
+      "sprite": "https://raw.githubusercontent.com/arsiniaofc/Infinitlabors_Floor_creatures/main/Criaturas/3_Moirles.png",
+      "rarity": "Lixo",
+      "stats": {
+        "hp": 31,
+        "attack": 50,
+        "defense": 40,
+        "speed": 78
+      }
+    },
+    {
+      "id": "17741891812710.9229523298917988",
+      "name": "Noname",
+      "type1": ":ZZ_Fogo:",
+      "type2": ":ZZ_Maldi:",
+      "sprite": "https://raw.githubusercontent.com/arsiniaofc/Infinitlabors_Floor_creatures/main/Criaturas/7_Noname.png",
+      "rarity": "Pragmático",
+      "stats": {
+        "hp": 50,
+        "attack": 69,
+        "defense": 69,
+        "speed": 69
+      }
+    },
+    {
+      "id": "17741891812710.8315112495678549",
+      "name": "Blekkolius",
+      "type1": ":ZZ_Maldi:",
+      "type2": ":ZZ_tinta:",
+      "sprite": "https://raw.githubusercontent.com/arsiniaofc/Infinitlabors_Floor_creatures/main/Criaturas/8_Blekkolius.png",
+      "rarity": "Estranho",
+      "stats": {
+        "hp": 100,
+        "attack": 100,
+        "defense": 22,
+        "speed": 58
+      }
+    },
+    {
+      "id": "17741891812710.12312807459580422",
+      "name": "Billybondas",
+      "type1": ":ZZ_Maldi:",
+      "type2": ":ZZ_Terra:",
+      "sprite": "https://raw.githubusercontent.com/arsiniaofc/Infinitlabors_Floor_creatures/main/Criaturas/9_Billybondas.png",
+      "rarity": "Estranho",
+      "stats": {
+        "hp": 79,
+        "attack": 81,
+        "defense": 37,
+        "speed": 83
+      }
+    },
+    {
+      "id": "17741891812710.10582055916928201",
+      "name": "Arramundal",
+      "type1": ":ZZ_Elet:",
+      "type2": ":ZZ_Voad:",
+      "sprite": "https://raw.githubusercontent.com/arsiniaofc/Infinitlabors_Floor_creatures/main/Criaturas/10_Arramundal.png",
+      "rarity": "Estranho",
+      "stats": {
+        "hp": 82,
+        "attack": 81,
+        "defense": 31,
+        "speed": 85
+      }
+    },
+    {
+      "id": "17741891812710.8309187186120827",
+      "name": "Dermitales",
+      "type1": ":ZZ_psip:",
+      "type2": ":ZZ_Terra:",
+      "sprite": "https://raw.githubusercontent.com/arsiniaofc/Infinitlabors_Floor_creatures/main/Criaturas/12_Dermitalis.png",
+      "rarity": "Lixo",
+      "stats": {
+        "hp": 85,
+        "attack": 40,
+        "defense": 75,
         "speed": 50
       }
     }
   ],
-  "trios": []
+  "trios": [
+    {
+      "id": "1774190878792",
+      "name": "Herói, vítima, assassino",
+      "mainType": ":ZZ_Gel:",
+      "creatureIds": [
+        "17741891812700.6821681254424627",
+        "17741891812710.74429162898561",
+        "17741891812710.8582093512029231"
+      ]
+    },
+    {
+      "id": "1774191259819",
+      "name": "Contra herbívoros",
+      "mainType": ":ZZ_Plant:",
+      "creatureIds": [
+        "17741891812710.29836351869141964",
+        "17741891812710.7015718565723503",
+        "17741891812710.13765760322572052"
+      ]
+    },
+    {
+      "id": "1774191324148",
+      "name": "Benditos seja",
+      "mainType": ":ZZ_Maldi:",
+      "creatureIds": [
+        "17741891812710.8315112495678549",
+        "17741891812710.12312807459580422",
+        "17741891812710.8191142663718303"
+      ]
+    }
+  ]
 }
