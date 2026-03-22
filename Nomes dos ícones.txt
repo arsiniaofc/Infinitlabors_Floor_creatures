@@ -1,0 +1,13 @@
+:ZZ_Agua:  = água 
+:ZZ_Elet:  = elétrico 
+:ZZ_Fogo:  = fogo
+:ZZ_Gel:  = gel
+:ZZ_Maldi: = maldição 
+:ZZ_Papela:  = papelão 
+:ZZ_Plant: = planta
+:ZZ_Sang:  = sangue
+:ZZ_Terra: = terra
+:ZZ_Voad: = voador
+:ZZ_fantas: = fantasma
+:ZZ_psip: = psíquico 
+:ZZ_tinta: = tinta
