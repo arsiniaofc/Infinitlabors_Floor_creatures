@@ -33,12 +33,13 @@
       "name": "Moirles",
       "type1": ":ZZ_Gel:",
       "type2": ":ZZ_Maldi:",
+      "sprite": "https://raw.githubusercontent.com/arsiniaofc/Infinitlabors_Floor_creatures/main/Criaturas/3_Moirles.png",
       "rarity": "Lixo",
       "stats": {
-        "hp": 50,
+        "hp": 31,
         "attack": 50,
-        "defense": 50,
-        "speed": 50
+        "defense": 40,
+        "speed": 78
       }
     },
     {
@@ -46,12 +47,13 @@
       "name": "Cintromelius",
       "type1": ":ZZ_Plant:",
       "type2": ":ZZ_fantas:",
-      "rarity": "Lixo",
+      "sprite": "https://raw.githubusercontent.com/arsiniaofc/Infinitlabors_Floor_creatures/main/Criaturas/5_Cintromelius.png",
+      "rarity": "Pragmático",
       "stats": {
-        "hp": 50,
-        "attack": 50,
-        "defense": 50,
-        "speed": 50
+        "hp": 71,
+        "attack": 78,
+        "defense": 35,
+        "speed": 81
       }
     },
     {
@@ -59,12 +61,13 @@
       "name": "Serdosa",
       "type1": ":ZZ_Gel:",
       "type2": ":ZZ_Plant:",
-      "rarity": "Lixo",
+      "sprite": "https://raw.githubusercontent.com/arsiniaofc/Infinitlabors_Floor_creatures/main/Criaturas/4_Serdosa.png",
+      "rarity": "Estranho",
       "stats": {
-        "hp": 50,
-        "attack": 50,
-        "defense": 50,
-        "speed": 50
+        "hp": 72,
+        "attack": 90,
+        "defense": 70,
+        "speed": 40
       }
     },
     {
