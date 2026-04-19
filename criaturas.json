@@ -224,7 +224,24 @@
         "defense": 60,
         "speed": 79
       },
-      "parentOriginId": "15"
+      "parentOriginId": "15",
+      "evolutionMethod": ":ZZ_psip:"
+    },
+    {
+      "id": "7.2",
+      "name": "Bomber ",
+      "type1": ":ZZ_Fogo:",
+      "type2": ":ZZ_Maldi:",
+      "type3": ":Desconhecido:",
+      "sprite": "https://raw.githubusercontent.com/arsiniaofc/Infinitlabors_Floor_creatures/main/Criaturas/7.2_Bomber.png",
+      "rarity": "Estranho",
+      "stats": {
+        "hp": 58,
+        "attack": 90,
+        "defense": 63,
+        "speed": 69
+      },
+      "parentOriginId": "7"
     }
   ],
   "trios": [
