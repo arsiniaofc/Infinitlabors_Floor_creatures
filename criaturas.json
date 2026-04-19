@@ -195,6 +195,36 @@
         "defense": 88,
         "speed": 85
       }
+    },
+    {
+      "id": "15",
+      "name": "Mowelhos",
+      "type1": ":ZZ_Elet:",
+      "type2": ":ZZ_Plant:",
+      "sprite": "https://raw.githubusercontent.com/arsiniaofc/Infinitlabors_Floor_creatures/main/Criaturas/15_mowelhos.png",
+      "rarity": "Pragmático",
+      "stats": {
+        "hp": 73,
+        "attack": 50,
+        "defense": 28,
+        "speed": 99
+      }
+    },
+    {
+      "id": "15.2",
+      "name": "Maihelhow",
+      "type1": ":ZZ_Elet:",
+      "type2": ":ZZ_Plant:",
+      "type3": ":ZZ_psip:",
+      "sprite": "https://raw.githubusercontent.com/arsiniaofc/Infinitlabors_Floor_creatures/main/Criaturas/15.2_maihelhow.png",
+      "rarity": "Bizarro",
+      "stats": {
+        "hp": 91,
+        "attack": 70,
+        "defense": 60,
+        "speed": 79
+      },
+      "parentOriginId": "15"
     }
   ],
   "trios": [
