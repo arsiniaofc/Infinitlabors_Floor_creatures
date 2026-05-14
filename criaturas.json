@@ -242,6 +242,35 @@
         "speed": 69
       },
       "parentOriginId": "7"
+    },
+    {
+      "id": "16",
+      "name": "Leordbee",
+      "type1": ":ZZ_Fogo:",
+      "type2": ":ZZ_Maldi:",
+      "type3": ":ZZ_Voad:",
+      "sprite": "https://raw.githubusercontent.com/arsiniaofc/Infinitlabors_Floor_creatures/main/Criaturas/16_leordbee.png",
+      "rarity": "Bizarro",
+      "stats": {
+        "hp": 80,
+        "attack": 90,
+        "defense": 50,
+        "speed": 80
+      }
+    },
+    {
+      "id": "17",
+      "name": "Teatram",
+      "type1": ":ZZ_Maldi:",
+      "type2": ":ZZ_Papela:",
+      "sprite": "https://raw.githubusercontent.com/arsiniaofc/Infinitlabors_Floor_creatures/main/Criaturas/17_treatam.png",
+      "rarity": "Pragmático",
+      "stats": {
+        "hp": 50,
+        "attack": 50,
+        "defense": 80,
+        "speed": 80
+      }
     }
   ],
   "trios": [
